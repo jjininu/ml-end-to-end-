@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+demo_predictor.egg-info/PKG-INFO
+demo_predictor.egg-info/SOURCES.txt
+demo_predictor.egg-info/dependency_links.txt
+demo_predictor.egg-info/top_level.txt

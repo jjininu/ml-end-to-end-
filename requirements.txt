@@ -5,4 +5,5 @@ sklearn
 pandas
 PyYAML
 pykernel
+PyYAML
 -e .
